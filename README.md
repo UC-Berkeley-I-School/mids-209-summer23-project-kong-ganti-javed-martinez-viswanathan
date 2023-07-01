@@ -1,7 +1,14 @@
-project_name
+W209 Final Project
 ==============================
 
-A short description of the project.
+Final project for MIDS DATASCI 209 - Data Visualization.
+
+Team members:
+- Gary Kong
+- Akhila Ganti
+- Ifrah Javed
+- Tatianna Martinez
+- Vinod Viswanathan
 
 Project Organization
 ------------
